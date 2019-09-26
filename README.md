@@ -1,3 +1,3 @@
 # Overview
-HW_49 - JSON Parsing
-Color Game - JS color clicking
+- [x] HW_49 - JSON Parsing
+- [x] Color Game - JS color clicking
